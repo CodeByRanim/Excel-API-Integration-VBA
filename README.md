@@ -4,6 +4,8 @@
 
 ## 🚀 **Présentation**
 Ce script VBA permet de :
+
+
 ✅ Envoyer une requête HTTP à une API Web  
 ✅ Extraire des données JSON ou XML  
 ✅ Insérer ces données directement dans une feuille Excel  
